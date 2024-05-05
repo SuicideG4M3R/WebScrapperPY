@@ -3,6 +3,7 @@
 # Created DB
 myDatabase.db
 .vscode
+__pycache__
 
 # Personal playground / notes :)
 sandbox.py
