@@ -1,0 +1,8 @@
+.idea
+.venv
+# Created DB
+myDatabase.db
+.vscode
+
+# Personal playground / notes :)
+sandbox.py
