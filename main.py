@@ -52,4 +52,6 @@ for page in links_to_scrap:
             except Exception as e:
                 print(f'Error: {e}')
                 print(f'Offer: {offer}\n')
+                close_connection(session)
+                raise Exception('main.py 55')
 close_connection(session)
